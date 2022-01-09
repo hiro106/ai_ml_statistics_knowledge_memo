@@ -4,9 +4,9 @@ https://www.youtube.com/watch?v=uF53xsT7mjc
 ## Graph Algorithms for Technical Interviews - Full Course (EN)
 https://www.youtube.com/watch?v=tWVWeAqZ0WU
 
-Presenter: Petar Veličković, DeepMind
+Presenter:  Petar Veličković, DeepMind
 
-Intro:
+Intro:  
 Deriving graph neural networks (GNNs) from first principles, motivating their use, and explaining how they have emerged along several related research lines.
 Computer Laboratory Wednesday Seminar, 17 February 2021
 
