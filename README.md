@@ -1,4 +1,4 @@
-### About
+## About
 
 Memos of what I learnt and articles/documents to check, relating to Artificial Intelligence, Machine Learning and Statistics. Comments and PRs are welcomed. 
 
