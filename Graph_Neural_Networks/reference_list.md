@@ -4,10 +4,10 @@ https://www.youtube.com/watch?v=uF53xsT7mjc
 ## Graph Algorithms for Technical Interviews - Full Course (EN)
 https://www.youtube.com/watch?v=tWVWeAqZ0WU
 
-#### Presenter  
+### Presenter  
 Petar Veličković, DeepMind
 
-#### Intro  
+### Intro  
 Deriving graph neural networks (GNNs) from first principles, motivating their use, and explaining how they have emerged along several related research lines.
 Computer Laboratory Wednesday Seminar, 17 February 2021
 
@@ -19,7 +19,7 @@ https://recruit.gmo.jp/engineer/jisedai/blog/node2vec/
 ## An Introduction to Graph Neural Networks: Models and Applications (EN)
 https://www.youtube.com/watch?v=zCEYiCxrL_0
 
-#### Intro  
+### Intro  
 MSR Cambridge, AI Residency Advanced Lecture Series
 An Introduction to Graph Neural Networks: Models and Applications
 
