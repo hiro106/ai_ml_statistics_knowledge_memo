@@ -18,7 +18,7 @@ https://recruit.gmo.jp/engineer/jisedai/blog/node2vec/
 ## An Introduction to Graph Neural Networks: Models and Applications (EN)
 https://www.youtube.com/watch?v=zCEYiCxrL_0
 
-Intro:
+Intro:  
 MSR Cambridge, AI Residency Advanced Lecture Series
 An Introduction to Graph Neural Networks: Models and Applications
 
