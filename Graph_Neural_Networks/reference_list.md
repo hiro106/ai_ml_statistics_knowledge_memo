@@ -1,7 +1,7 @@
-### Theoretical Foundations of Graph Neural Networks (EN)
+## Theoretical Foundations of Graph Neural Networks (EN)
 https://www.youtube.com/watch?v=uF53xsT7mjc
 
-### Graph Algorithms for Technical Interviews - Full Course (EN)
+## Graph Algorithms for Technical Interviews - Full Course (EN)
 https://www.youtube.com/watch?v=tWVWeAqZ0WU
 
 Presenter: Petar Veličković, DeepMind
@@ -11,11 +11,11 @@ Deriving graph neural networks (GNNs) from first principles, motivating their us
 Computer Laboratory Wednesday Seminar, 17 February 2021
 
 
-### node2vecの論文紹介 (JP)
+## node2vecの論文紹介 (JP)
 https://recruit.gmo.jp/engineer/jisedai/blog/node2vec/
 
 
-### An Introduction to Graph Neural Networks: Models and Applications (EN)
+## An Introduction to Graph Neural Networks: Models and Applications (EN)
 https://www.youtube.com/watch?v=zCEYiCxrL_0
 
 Intro:
